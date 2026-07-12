@@ -1,0 +1,18 @@
+# Maven Build Target (Contains compiled binaries and test reports)
+target/
+
+# System-specific files
+Thumbs.db
+.DS_Store
+
+# IDE specific settings (VS Code & IntelliJ)
+.settings/
+.classpath
+.project
+.project/
+.idea/
+*.iml
+.vscode/
+
+# Log files
+*.log
